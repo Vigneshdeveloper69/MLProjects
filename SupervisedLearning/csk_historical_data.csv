@@ -1,0 +1,11 @@
+Match_ID,Runs_Scored,Wickets_Taken,Opponent,Match_Outcome,Toss_Win
+1,160,8,Team A,Win,1
+2,150,6,Team B,Lose,0
+3,180,10,Team C,Win,1
+4,140,5,Team D,Lose,0
+5,170,7,Team E,Win,1
+6,155,4,Team F,Lose,0
+7,175,9,Team G,Win,1
+8,130,3,Team H,Lose,0
+9,165,11,Team I,Win,1
+10,145,6,Team J,Lose,0

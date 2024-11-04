@@ -1,0 +1,11 @@
+ad_id,user_id,age,gender,country,device,ad_position,time_of_day,impressions,click
+1,1001,25,Male,USA,Desktop,2,Morning,500,1
+2,1002,34,Female,Canada,Mobile,1,Afternoon,1200,0
+3,1003,19,Male,UK,Tablet,3,Evening,300,0
+4,1004,45,Female,Australia,Mobile,1,Night,1500,1
+5,1005,28,Male,India,Desktop,2,Afternoon,800,0
+6,1006,22,Female,USA,Tablet,3,Morning,600,1
+7,1007,33,Male,Canada,Mobile,1,Evening,1100,0
+8,1008,29,Female,UK,Desktop,2,Afternoon,900,1
+9,1009,41,Male,Australia,Tablet,3,Night,700,0
+10,1010,30,Female,India,Mobile,1,Morning,1000,1
