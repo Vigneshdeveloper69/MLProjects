@@ -1,0 +1,11 @@
+Transaction_ID,Transaction_Amount,Transaction_Time,Device_Used,User_Location,IP_Address,Shipping_Billing_Match,Payment_Method,Failed_Attempts
+T1001,50,10,1,New York,192.168.1.2,1,Credit Card,0
+T1002,5000,2,2,California,192.168.10.5,0,Debit Card,1
+T1003,150,15,1,Texas,192.168.2.10,1,PayPal,0
+T1004,7000,1,2,Florida,192.168.20.1,0,Credit Card,3
+T1005,100,11,3,Chicago,192.168.3.15,1,Debit Card,0
+T1006,120,9,1,New York,192.168.4.10,1,Credit Card,0
+T1007,20000,3,2,Dubai,10.0.0.1,0,Credit Card,5
+T1008,50,13,1,Boston,192.168.6.20,1,PayPal,0
+T1009,10000,22,2,London,172.16.5.2,0,Credit Card,4
+T1010,75,18,1,Bangalore,192.168.7.25,1,Debit Card,0
